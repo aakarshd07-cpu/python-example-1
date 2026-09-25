@@ -8,3 +8,6 @@ elif age >= 30:
     print("You are young.")
 else:
     print("You are a minor.")
+
+for i in range(10):
+    print(i)
